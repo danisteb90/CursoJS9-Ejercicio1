@@ -1,0 +1,4 @@
+{"level":"error","message":"Hola Esteban, este es un mensaje personalizado","service":"user-service"}
+{"level":"error","message":"Hola Esteban, este es un mensaje personalizado"}
+{"level":"error","message":"ReferenceError: miFuncion is not defined"}
+{"level":"error","message":"Error: El valor debe ser de tipo numero"}
